@@ -277,9 +277,7 @@ const ChatWidget = () => {
             <button
                 onClick={() => setOpen((prev) => !prev)}
                 className="flex h-14 w-14 items-center justify-center rounded-full bg-gray-950 text-white shadow-lg transition hover:bg-gray-800 "
-                aria-label={
-                    open ? "Close help chat" : "Open help chat"
-                }
+                aria-label="Open help chat"
             >
                 {open ? (
                     <X size={22} />
