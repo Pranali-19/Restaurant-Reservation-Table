@@ -38,9 +38,9 @@ Customer → Select Date/Time → Check Availability
 
 ## 🌐 Live Demo
 
-**Frontend:** `https://restaurant-reservation-table.vercel.app`
+**Frontend:** https://restaurant-reservation-table.vercel.app
 
-**Backend:** `https://restaurant-reservation-table.onrender.com`
+**Backend:** https://restaurant-reservation-table.onrender.com
 
 
 ## 💡 Key Learning Outcomes
